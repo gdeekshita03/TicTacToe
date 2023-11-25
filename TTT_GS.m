@@ -1,9 +1,7 @@
-%sydney scott and deekshita
-%2/7/22
 clc;
 clear;
 %display the game and creators
-disp('Welcome to Minions Tic Tac Toe by Deekshita and Sydney!')
+disp('Welcome to Minions Tic Tac Toe by Deekshita!')
 disp ('                             ')
 %ask players to put in their names
 name1=input('Player 1 please enter name:  ','s');
